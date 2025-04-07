@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1589227365533-cee630bd59bd",
+        "description": "Classic Italian pasta dish with eggs, cheese, pancetta, and black pepper",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "pecorino cheese",
+            "pancetta",
+            "black pepper"
+        ],
+        "instructions": "Cook pasta, mix with egg and cheese mixture, add pancetta, season with pepper",
+        "tags": []
+    },
+    {
+        "id": 2,
+        "title": "Chicken Curry",
+        "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe",
+        "description": "Spicy Indian curry with tender chicken pieces",
+        "ingredients": [
+            "chicken",
+            "curry powder",
+            "coconut milk",
+            "onions",
+            "garlic"
+        ],
+        "instructions": "Saut\u00e9 onions and garlic, add chicken and curry powder, simmer in coconut milk",
+        "tags": []
+    },
+    {
+        "id": 4,
+        "title": "Beef Tacos",
+        "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47",
+        "description": "Classic Mexican tacos with seasoned ground beef",
+        "ingredients": [
+            "ground beef",
+            "taco seasoning",
+            "tortillas",
+            "lettuce",
+            "tomatoes",
+            "cheese"
+        ],
+        "instructions": "Brown beef, add seasoning, serve in tortillas with toppings"
+    },
+    {
+        "id": 5,
+        "title": "Vegetable Stir Fry",
+        "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+        "description": "Quick and healthy vegetable stir fry",
+        "ingredients": [
+            "mixed vegetables",
+            "soy sauce",
+            "ginger",
+            "garlic",
+            "sesame oil"
+        ],
+        "instructions": "Stir fry vegetables with sauce and seasonings",
+        "tags": [
+            "Asian"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Margherita Pizza",
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+        "description": "Classic Italian pizza with tomatoes, mozzarella, and basil",
+        "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella",
+            "fresh basil",
+            "olive oil"
+        ],
+        "instructions": "Top dough with sauce and cheese, bake until golden"
+    },
+    {
+        "id": 7,
+        "title": "Greek Salad",
+        "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6",
+        "description": "Fresh Mediterranean salad with feta and olives",
+        "ingredients": [
+            "cucumbers",
+            "tomatoes",
+            "red onion",
+            "feta cheese",
+            "olives",
+            "olive oil"
+        ],
+        "instructions": "Chop vegetables, add cheese and olives, dress with oil"
+    },
+    {
+        "id": 8,
+        "title": "Beef Burger",
+        "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+        "description": "Juicy beef burger with classic toppings",
+        "ingredients": [
+            "ground beef",
+            "burger buns",
+            "lettuce",
+            "tomato",
+            "onion",
+            "cheese"
+        ],
+        "instructions": "Form patties, grill, assemble with toppings"
+    },
+    {
+        "id": 9,
+        "title": "Sushi Rolls",
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c",
+        "description": "Fresh sushi rolls with fish and vegetables",
+        "ingredients": [
+            "sushi rice",
+            "nori",
+            "fresh fish",
+            "cucumber",
+            "avocado",
+            "wasabi"
+        ],
+        "instructions": "Prepare rice, roll with fillings, slice into pieces"
+    },
+    {
+        "id": 10,
+        "title": "Chicken Noodle Soup",
+        "image": "https://images.unsplash.com/photo-1548013146-72479768bada",
+        "description": "Comforting homemade chicken noodle soup",
+        "ingredients": [
+            "chicken",
+            "noodles",
+            "carrots",
+            "celery",
+            "onion",
+            "herbs"
+        ],
+        "instructions": "Simmer chicken with vegetables, add noodles, season to taste"
+    },
+    {
+        "id": 11,
+        "title": "Ribs",
+        "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?q=80&w=2538&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Pork Ribs",
+        "ingredients": [
+            "ribs",
+            "sauce",
+            "salt"
+        ],
+        "instructions": "cook\nfinish\neat"
+    },
+    {
+        "id": 12,
+        "title": "Dan Dan Noodle",
+        "image": "https://images.unsplash.com/photo-1679279726940-be5ce80c632c?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Noodle of Dan Dan",
+        "ingredients": [
+            "Noodle",
+            "Peanut",
+            "Chive"
+        ],
+        "instructions": "Cook noodle\nadd peanut\nadd chive",
+        "tags": []
+    }
+]
